@@ -1,0 +1,14 @@
+com/mycompany/studentcomplaintsystem/controller/UserRegistrationServlet.class
+com/mycompany/studentcomplaintsystem/controller/AdminLoginServlet.class
+com/mycompany/studentcomplaintsystem/model/User.class
+com/mycompany/studentcomplaintsystem/model/Complaint.class
+com/mycompany/studentcomplaintsystem/controller/SubmitComplaintServlet.class
+com/mycompany/studentcomplaintsystem/JAXRSConfiguration.class
+com/mycompany/studentcomplaintsystem/controller/ViewComplaintsServlet.class
+com/mycompany/studentcomplaintsystem/controller/LoginServlet.class
+com/mycompany/studentcomplaintsystem/controller/UpdateComplaintServlet.class
+com/mycompany/studentcomplaintsystem/resources/JavaEE8Resource.class
+com/mycompany/studentcomplaintsystem/dao/DBConnection.class
+com/mycompany/studentcomplaintsystem/controller/ViewAllComplaintsServlet.class
+com/mycompany/studentcomplaintsystem/dao/ComplaintDAO.class
+com/mycompany/studentcomplaintsystem/dao/UserDAO.class
